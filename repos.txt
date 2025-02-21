@@ -17,6 +17,25 @@
             "https://drive.usercontent.google.com/download?id=1Pmowe2fJSRekRH_Tub_35wVcTBzFI_y1&export=download&authuser=0&confirm=t&uuid=68c501bd-84e7-41ef-889e-99f6344a35da&at=AEz70l6Fo9yjsi2iAZDXzQ6XseCG:1740157347180"
         ]
     },
+{
+    "Apex Squashfs Repos": {
+        "Apex Gamester Stable Repos": [
+            "stable Package Database Build 21-02-2024 link 1",
+            "",
+            "stable Package Database Build 21-02-2024 link 2",
+            "",
+            "stable Package Database Build 21-02-2024 link 3",
+            ""
+        ],
+        "Apex Gamester Rolling Repos": [
+            "Rolling Package Database Build 21-02-2024 link 1",
+            "",
+            "Rolling Package Database Build 21-02-2024 link 2",
+            "",
+            "Rolling Package Database Build 21-02-2024 link 3",
+            ""
+        ]
+    },
     "Arch Squashfs Repos": {
         "KdeLinux Squashfs Repos": []
     },
