@@ -1,52 +1,33 @@
-{
-    "Apex Squashfs Repos": {
-        "Apex KdeLinux Stable Repos": [
-            "stable Package Database Build 21-02-2024 link 1",
-            "https://drive.usercontent.google.com/download?id=1J5IoJwoITLPQI5ixhbRDIbSXwAonw2jS&export=download&authuser=0&confirm=t&uuid=d7cfd65c-418e-4ae9-8251-71c0ea3f8a9e&at=AEz70l4LqbbXRk-ozzt2JCpU9Sia:1740157182749",
-            "stable Package Database Build 21-02-2024 link 2",
-            "https://drive.usercontent.google.com/download?id=1uLWnpL9yObqXt0GyuPyCmzyIXiy0_Q3Q&export=download&authuser=0&confirm=t&uuid=91c901cf-3cc2-42cd-86ea-a7044238284e&at=AEz70l4gdDXqH6BSGUgLz0fshwQJ:1740157149592",
-            "stable Package Database Build 21-02-2024 link 3",
-            "https://drive.usercontent.google.com/download?id=188w7c-Lmd0oQHOnIowvYbUGIu33VTeRO&export=download&authuser=0&confirm=t&uuid=e73603d8-5153-43da-a82d-69f90fcf460c&at=AEz70l7JqsDDwix2qXBMBMLQ8AOB:1740157237931"
-        ],
-        "Apex KdeLinux Rolling Repos": [
-            "Rolling Package Database Build 21-02-2024 link 1",
-            "https://drive.usercontent.google.com/download?id=1l55Dt2oWTFbHMF4cpBJNWN42u8S5spOe&export=download&authuser=0&confirm=t&uuid=f7a1403c-21a2-4b8f-b5ad-bef8e12900f7&at=AEz70l5-r9LeQKySggIdSGt3qqB-:1740157310461",
-            "Rolling Package Database Build 21-02-2024 link 2",
-            "https://drive.usercontent.google.com/download?id=1vRzLn5hWN2RQGl7FcIjmiGiTk64PZvAY&export=download&authuser=0&confirm=t&uuid=68a9cb42-a022-4f5c-9864-0620cbb53910&at=AEz70l646cnEBAtqbo0H9KMqFSNh:1740157317515",
-            "Rolling Package Database Build 21-02-2024 link 3",
-            "https://drive.usercontent.google.com/download?id=1Pmowe2fJSRekRH_Tub_35wVcTBzFI_y1&export=download&authuser=0&confirm=t&uuid=68c501bd-84e7-41ef-889e-99f6344a35da&at=AEz70l6Fo9yjsi2iAZDXzQ6XseCG:1740157347180"
-        ]
-    },
-{
-    "Apex Squashfs Repos": {
-        "Apex Gamester Stable Repos": [
-            "stable Package Database Build 21-02-2024 link 1",
-            "",
-            "stable Package Database Build 21-02-2024 link 2",
-            "",
-            "stable Package Database Build 21-02-2024 link 3",
-            ""
-        ],
-        "Apex Gamester Rolling Repos": [
-            "Rolling Package Database Build 21-02-2024 link 1",
-            "",
-            "Rolling Package Database Build 21-02-2024 link 2",
-            "",
-            "Rolling Package Database Build 21-02-2024 link 3",
-            ""
-        ]
-    },
-    "Arch Squashfs Repos": {
-        "KdeLinux Squashfs Repos": []
-    },
-    "CachyOS Squashfs Repos": {
-        "ArcoLinux Squashfs Repos": []
-    },
-    "Prebuilt Iso Repos": {
-        "Apex Iso Repos": [],
-        "Arch Iso Repos": [],
-        "KdeLinux Iso Repos": [],
-        "CachyOS Iso Repos": [],
-        "ArcoLinux Iso Repos": []
-    }
-}
+Apex Squashfs Repos
+Apex KdeLinux Stable Repos
+stable Package Database Build 21-02-2024 link 1
+https://drive.usercontent.google.com/download?id=1J5IoJwoITLPQI5ixhbRDIbSXwAonw2jS&export=download&authuser=0&confirm=t&uuid=d7cfd65c-418e-4ae9-8251-71c0ea3f8a9e&at=AEz70l4LqbbXRk-ozzt2JCpU9Sia:1740157182749
+stable Package Database Build 21-02-2024 link 2
+https://drive.usercontent.google.com/download?id=1uLWnpL9yObqXt0GyuPyCmzyIXiy0_Q3Q&export=download&authuser=0&confirm=t&uuid=91c901cf-3cc2-42cd-86ea-a7044238284e&at=AEz70l4gdDXqH6BSGUgLz0fshwQJ:1740157149592
+stable Package Database Build 21-02-2024 link 3
+https://drive.usercontent.google.com/download?id=188w7c-Lmd0oQHOnIowvYbUGIu33VTeRO&export=download&authuser=0&confirm=t&uuid=e73603d8-5153-43da-a82d-69f90fcf460c&at=AEz70l7JqsDDwix2qXBMBMLQ8AOB:1740157237931
+Apex KdeLinux Rolling Repos
+Rolling Package Database Build 21-02-2024 link 1
+https://drive.usercontent.google.com/download?id=1l55Dt2oWTFbHMF4cpBJNWN42u8S5spOe&export=download&authuser=0&confirm=t&uuid=f7a1403c-21a2-4b8f-b5ad-bef8e12900f7&at=AEz70l5-r9LeQKySggIdSGt3qqB-:1740157310461
+Rolling Package Database Build 21-02-2024 link 2
+https://drive.usercontent.google.com/download?id=1vRzLn5hWN2RQGl7FcIjmiGiTk64PZvAY&export=download&authuser=0&confirm=t&uuid=68a9cb42-a022-4f5c-9864-0620cbb53910&at=AEz70l646cnEBAtqbo0H9KMqFSNh:1740157317515
+Rolling Package Database Build 21-02-2024 link 3
+https://drive.usercontent.google.com/download?id=1Pmowe2fJSRekRH_Tub_35wVcTBzFI_y1&export=download&authuser=0&confirm=t&uuid=68c501bd-84e7-41ef-889e-99f6344a35da&at=AEz70l6Fo9yjsi2iAZDXzQ6XseCG:1740157347180
+Apex Gamester Stable Repos
+stable Package Database Build 21-02-2024 link 1
+stable Package Database Build 21-02-2024 link 2
+stable Package Database Build 21-02-2024 link 3
+Apex Gamester Rolling Repos
+Rolling Package Database Build 21-02-2024 link 1
+Rolling Package Database Build 21-02-2024 link 2
+Rolling Package Database Build 21-02-2024 link 3
+Arch Squashfs Repos
+KdeLinux Squashfs Repos
+CachyOS Squashfs Repos
+ArcoLinux Squashfs Repos
+Prebuilt Iso Repos
+Apex Iso Repos
+Arch Iso Repos
+KdeLinux Iso Repos
+CachyOS Iso Repos
+ArcoLinux Iso Repos
